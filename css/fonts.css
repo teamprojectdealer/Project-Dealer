@@ -1,0 +1,36 @@
+@font-face {
+    font-family: abel;
+    src: url(../fonts/Abel-Regular.ttf);
+}
+@font-face {
+    font-family: acme;
+    src: url(../fonts/Acme-Regular.ttf);
+}
+@font-face {
+    font-family: dosis;
+    src: url(../fonts/Dosis-Regular.ttf);
+}
+@font-face {
+    font-family: exo2;
+    src: url(../fonts/Exo2-Black.ttf);
+}
+@font-face {
+    font-family: josef;
+    src: url(../fonts/JosefinSans-Regular.ttf);
+}
+@font-face {
+    font-family: exo;
+    src: url(../fonts/Exo-Black.ttf);
+}
+@font-face {
+    font-family: k2d;
+    src: url(../fonts/K2D-Regular.ttf);
+}
+@font-face {
+    font-family: lobster;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+@font-face {
+    font-family: nunito;
+    src: url(../fonts/Nunito-Black.ttf);
+}
